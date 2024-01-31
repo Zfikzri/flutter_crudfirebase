@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399590041523",
+    "project_id": "crudfirebase-a66f6",
+    "storage_bucket": "crudfirebase-a66f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399590041523:android:0e540329177f7dbb454dc6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBANC-eUkMW_A4HZPzZOrkUiFUGiIK-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
